@@ -8,7 +8,7 @@ const portfolios = [
     id: "07",
     imgUrl: portfolioImg08,
     category: "Web Design",
-    title: "Appointment Booking Website",
+    title: "HealHub",
     description:
       "\"HealHub\" is a doctor appointment booking system. This GitHub repository contains the source code and documentation for the application. Collaborate, contribute, and improve the scheduling process for patients and healthcare providers.",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB","Express.js","Stripe"],
@@ -22,7 +22,7 @@ const portfolios = [
     description:
       "Dynamic and visually appealing personal portfolio website to showcase your skills, projects, and experience. The website will serve as a digital resume and a platform to demonstrate your expertise to potential employers, clients, or collaborators.",
     technologies: ["React", "Tailwind css"],
-    siteUrl: "https://bala1503.github.io/portfolio/",
+    siteUrl: "https://bala1503.github.io/portfolio_official/",
   },
   {
     id: "09",
